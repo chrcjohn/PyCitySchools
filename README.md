@@ -7,4 +7,4 @@ Results:
 
 No results found because of coding error
 
-    Summary In all, by changing the ninth grade grades at Thomas High School, the overall passing % for the ninth grade in the district decreased, percent passing in the $630-644 school spending bin decreased, the medium school size in the district percent passing decreased, and the charter school percent passing decreased.
+    
